@@ -6,4 +6,12 @@
 
 <img src="./images/Lecture_DataAnalysis_2023Feb_QR.png" alt="QRcode" width="200px"/>
 
-#### Constructing
+#### Constructing the Anaconda Python Environment
+(also working on Macbook)
+```
+linux> conda create --name dataanalysis_lecture pip
+linux> conda activate dataanalysis_lecture
+linux> pip install --upgrade pip
+linux> pip install jupyter numpy matplotlib pandas
+linux> pip install emcee corner tqdm
+```
