@@ -6,8 +6,9 @@
 
 <img src="./images/Lecture_DataAnalysis_2023Feb_QR.png" alt="QRcode" width="200px"/>
 
-## Textbook
-[Numerical Recipes, 3rd ed.](http://numerical.recipes/book/book.html)
+## Textbook and References
+- [Numerical Recipes, 3rd ed.](http://numerical.recipes/book/book.html)
+- [emcee](https://emcee.readthedocs.io/en/stable/) [tutorial](https://emcee.readthedocs.io/en/stable/tutorials/line/)
 
 ## Purpose
 Comparing *data* with a *model* that depends on adjustable parameters, with the aid of the figure-of-merit function (評價函數; **merit function** for short):
