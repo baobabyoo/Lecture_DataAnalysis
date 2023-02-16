@@ -20,7 +20,7 @@ Comparing *data* with a *model* that depends on adjustable parameters, with the 
 - [Frequentist inference](https://en.wikipedia.org/wiki/Frequentist_inference) 頻率學派推斷
 - [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference) 貝葉斯推斷
 
-## Constructing the [Anaconda](https://www.anaconda.com/products/distribution) () [Python](https://www.python.org/) Environment
+## Constructing the [Anaconda](https://www.anaconda.com/products/distribution)  [Python](https://www.python.org/) Environment
 (this installed Python 3.10.9; also working on Macbook)
 ```
 # 2023.Feb.16
