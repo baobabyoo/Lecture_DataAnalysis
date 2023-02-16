@@ -6,7 +6,7 @@
 
 <img src="./images/Lecture_DataAnalysis_2023Feb_QR.png" alt="QRcode" width="200px"/>
 
-#### Constructing the Anaconda Python Environment
+#### Constructing the [Anaconda](https://www.anaconda.com/products/distribution) Python Environment
 (also working on Macbook)
 ```
 linux> conda create --name dataanalysis_lecture pip
