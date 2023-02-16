@@ -7,16 +7,16 @@
 <img src="./images/Lecture_DataAnalysis_2023Feb_QR.png" alt="QRcode" width="200px"/>
 
 ## Purpose
-Comparing *data* with a *model* that depends on adjustable parameters, with the aid of the figure-of-merit function (**merit function** for short):
-- finding the best-fit parameters.
-- knowing the standard errors of the parameters
-- assessing goodness-of-fit
+Comparing *data* with a *model* that depends on adjustable parameters, with the aid of the figure-of-merit function (評價函數; **merit function** for short):
+- finding the best-fit parameters (最適參數).
+- knowing the standard errors (標準誤差) of the parameters
+- assessing goodness-of-fit (適合度)
 
 ## Approaches
-- [Frequentist inference](https://en.wikipedia.org/wiki/Frequentist_inference)
-- [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
+- [Frequentist inference](https://en.wikipedia.org/wiki/Frequentist_inference) 頻率學派推斷
+- [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference) 貝葉斯推斷
 
-## Constructing the [Anaconda](https://www.anaconda.com/products/distribution) [Python](https://www.python.org/) Environment
+## Constructing the [Anaconda](https://www.anaconda.com/products/distribution) () [Python](https://www.python.org/) Environment
 (this installed Python 3.10.9; also working on Macbook)
 ```
 # 2023.Feb.16
@@ -25,7 +25,7 @@ Comparing *data* with a *model* that depends on adjustable parameters, with the 
 # matplotlib is our plotting package
 # pandas is the package to deal with file I/O
 # emcee and corner are the packages to do MCMC
-# tqdm is the package to allow show progress bars when running  a python code 
+# tqdm is the package to allow show progress bars when running  a python code
 linux> conda create --name dataanalysis_lecture pip
 linux> conda activate dataanalysis_lecture
 linux> pip install --upgrade pip
