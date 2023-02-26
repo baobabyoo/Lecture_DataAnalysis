@@ -1,4 +1,6 @@
 # Lecture: Data Analysis
+**憊思參差識無常 遍履方圜飛神仙**
+
 * Time: (2023 March 03/07) 2-5 pm
 * Lecturer: [Hauyu Baobab Liu](https://baobabyoo.github.io/) (呂浩宇)
 * Location: NSYSU, 物理系館二樓演講廳
@@ -36,3 +38,7 @@ linux> pip install --upgrade pip
 linux> pip install jupyter numpy matplotlib pandas
 linux> pip install emcee corner tqdm
 ```
+
+## Syllabus
+
+### Principle of $\Chi$ square fitting
