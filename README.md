@@ -40,6 +40,13 @@ linux> pip install emcee corner tqdm
 ```
 
 ## Syllabus
-
-1. Principle of $\chi$ square fitting
-2.
+1. Principle of least square and $\chi$ square fittings
+2. Fitting a line
+ - principle
+ - Python code
+3. Non-linear problem (Levenberg-Marquart method)
+ - principle
+ - Python code (taking 1D Gaussian as an example)
+4. Bayesian inference
+5. Markov Chain Monte Carlo method
+6. Applications of artificial neural network
