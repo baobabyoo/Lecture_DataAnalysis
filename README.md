@@ -41,4 +41,5 @@ linux> pip install emcee corner tqdm
 
 ## Syllabus
 
-### Principle of $\Chi$ square fitting
+1. Principle of $\chi$ square fitting
+2.
