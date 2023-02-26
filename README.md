@@ -36,6 +36,7 @@ linux> conda create --name dataanalysis_lecture pip
 linux> conda activate dataanalysis_lecture
 linux> pip install --upgrade pip
 linux> pip install jupyter numpy matplotlib pandas
+linux> pip install scipy
 linux> pip install emcee corner tqdm
 ```
 
@@ -50,3 +51,5 @@ linux> pip install emcee corner tqdm
 4. Bayesian inference
 5. Markov Chain Monte Carlo method
 6. Applications of artificial neural network
+
+## Example Python Code
