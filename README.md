@@ -53,4 +53,4 @@ linux> pip install emcee corner tqdm
 6. Applications of artificial neural network
 
 ## Example Python Code
-[Jupyter Notebook](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/DataAnalysisLecture_2023March.ipynb)
+[Jupyter Notebook](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/DataAnalysisLecture_2023March.ipynb) (Note that the codes are redundant for a pedagogical purpose. Normally we should not make the codes looking like that.)
