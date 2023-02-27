@@ -1,7 +1,7 @@
 # Lecture: Data Analysis
 **憊思參差識無常 遍履方圜飛神仙**
 
-<img src="./images/cover.png" alt="Cover" width="1200px"/>
+<img src="./images/cover.png" alt="Cover" width="800px"/>
 
 * Time: (2023 March 03/07) 2-5 pm
 * Lecturer: [Hauyu Baobab Liu](https://baobabyoo.github.io/) (呂浩宇)
