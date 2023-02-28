@@ -54,5 +54,8 @@ linux> pip install emcee corner tqdm
 5. Markov Chain Monte Carlo method
 6. Applications of artificial neural network
 
+## Lecture Notes
+1. [Part 1](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/lecture_notes/DataAnalysis_part1.pdf)
+
 ## Example Python Code
 [Jupyter Notebook](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/DataAnalysisLecture_2023March.ipynb) (Note that the codes are redundant for a pedagogical purpose. Normally we should not make the codes looking like that.)
