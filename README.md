@@ -55,7 +55,9 @@ linux> pip install emcee corner tqdm
 6. Applications of artificial neural network
 
 ## Lecture Notes
-1. [Part 1](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/lecture_notes/DataAnalysis_part1.pdf)
+1. [Part 1: General Concepts and Chi-Square fittings](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/lecture_notes/DataAnalysis_part1.pdf)
+1. [Part 2: Chi-Squre fittings in linear problem](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/lecture_notes/DataAnalysis_part2.pdf)
+1. [Part 3: Non-linear Chi-Square minimization and goodness-of-fittings](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/lecture_notes/DataAnalysis_part3.pdf)
 
 ## Example Python Code
 [Jupyter Notebook](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/DataAnalysisLecture_2023March.ipynb) (Note that the codes are redundant for a pedagogical purpose. Normally we should not make the codes looking like that.)
