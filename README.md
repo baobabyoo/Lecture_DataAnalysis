@@ -56,8 +56,9 @@ linux> pip install emcee corner tqdm
 
 ## Lecture Notes
 1. [Part 1: General Concepts and Chi-Square fittings](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/lecture_notes/DataAnalysis_part1.pdf)
-1. [Part 2: Chi-Squre fittings in linear problem](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/lecture_notes/DataAnalysis_part2.pdf)
-1. [Part 3: Non-linear Chi-Square minimization and goodness-of-fittings](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/lecture_notes/DataAnalysis_part3.pdf)
+2. [Part 2: Chi-Squre fittings in linear problem](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/lecture_notes/DataAnalysis_part2.pdf)
+3. [Part 3: Non-linear Chi-Square minimization and goodness-of-fittings](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/lecture_notes/DataAnalysis_part3.pdf)
+4. [Part 4: Markov Chain Monte Carlo method](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/lecture_notes/DataAnalysis_part4.pdf)
 
 ## Example Python Code
 [Jupyter Notebook](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/DataAnalysisLecture_2023March.ipynb) (Note that the codes are redundant for a pedagogical purpose. Normally we should not make the codes looking like that.)
