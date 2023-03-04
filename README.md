@@ -61,5 +61,5 @@ linux> pip install emcee corner tqdm
 4. [Part 4: Markov Chain Monte Carlo method](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/lecture_notes/DataAnalysis_part4.pdf)
 
 ## Example Python Code
-[Jupyter Notebook - Frequentist](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/DataAnalysisLecture_2023March_frequentist) (Note that the codes are redundant for a pedagogical purpose. Normally we should not make the codes looking like that.)
-[Jupyter Notebook - MCMC](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/DataAnalysisLecture_2023March_MCMC) (Note that the codes are redundant for a pedagogical purpose. Normally we should not make the codes looking like that.)
+- [Jupyter Notebook - Frequentist](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/DataAnalysisLecture_2023March_frequentist,jpynb) (Note that the codes are redundant for a pedagogical purpose. Normally we should not make the codes looking like that.)
+- [Jupyter Notebook - MCMC](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/DataAnalysisLecture_2023March_MCMC.jpynb) (Note that the codes are redundant for a pedagogical purpose. Normally we should not make the codes looking like that.)
