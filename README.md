@@ -62,3 +62,4 @@ linux> pip install emcee corner tqdm
 
 ## Example Python Code
 [Jupyter Notebook - Frequentist](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/DataAnalysisLecture_2023March_frequentist) (Note that the codes are redundant for a pedagogical purpose. Normally we should not make the codes looking like that.)
+[Jupyter Notebook - MCMC](https://github.com/baobabyoo/Lecture_DataAnalysis/blob/main/DataAnalysisLecture_2023March_MCMC) (Note that the codes are redundant for a pedagogical purpose. Normally we should not make the codes looking like that.)
