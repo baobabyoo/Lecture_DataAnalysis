@@ -40,6 +40,7 @@ linux> pip install --upgrade pip
 linux> pip install jupyter numpy matplotlib pandas
 linux> pip install scipy
 linux> pip install emcee corner tqdm
+linux> pip install h5py
 ```
 
 ## Syllabus
