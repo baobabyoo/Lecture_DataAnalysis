@@ -42,6 +42,7 @@ linux> pip install scipy
 linux> pip install emcee corner tqdm
 linux> pip install h5py
 ```
+If you need an instruction about how to install Anaconda, check [my webpage](https://baobabyoo.github.io/pages/students_topics/software_tips_python.html)
 
 ## Syllabus
 1. Principle of least square and $\chi$ square fittings
