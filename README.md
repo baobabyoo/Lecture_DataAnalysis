@@ -13,6 +13,10 @@
 ## Textbook and References
 - [Numerical Recipes, 3rd ed.](http://numerical.recipes/book/book.html)
 - [emcee](https://emcee.readthedocs.io/en/stable/) [tutorial](https://emcee.readthedocs.io/en/stable/tutorials/line/)
+- Good references for artificial neural network and machine learning
+ 1. [UA-ASTR502](https://github.com/UA-ASTR502-2022/astr502?fbclid=IwZXh0bgNhZW0CMTAAAR1Q8Wz8_XHHmSFdDVhyFZOYnzF3wBvHlRrBk_MV88Xk5ypqbC_-KU8RHKA_aem_AQmresWOdpAEBcDGZ8QxaOAWpL90SLulatoeZ6prBmbtnCiyc4g2p4pCJzE0qHrH2ts6Qbm-H-zagk0U3hFw4QnP)
+ 2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+
 
 ## Purpose
 Comparing *data* with a *model* that depends on adjustable parameters, with the aid of the figure-of-merit function (評價函數; **merit function** for short):
